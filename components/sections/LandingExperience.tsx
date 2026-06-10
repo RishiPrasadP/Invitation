@@ -128,10 +128,17 @@ export default function LandingExperience() {
                 <p className="text-xs uppercase tracking-[0.45em] text-gold/80">
                   With the blessings of our families
                 </p>
-                <div className="space-y-4 text-2xl font-semibold leading-tight tracking-tight text-ivory sm:text-3xl">
-                  <p>Mr. T. Ayyappan</p>
-                  <p className="text-gold">&amp;</p>
-                  <p>Mrs. A. Tamilmani</p>
+                <div className="mx-auto max-w-xl rounded-[28px] border border-gold/20 bg-maroon/10 p-6 text-center shadow-[inset_0_0_0_1px_rgba(212,175,55,0.12)]">
+                
+                  <p className="mt-4 text-3xl font-semibold text-gold">
+                    Mr. T. Ayyapan
+                  </p>
+                  <p className="mt-2 text-3xl font-semibold text-gold">
+                    &amp;
+                  </p>
+                  <p className="mt-2 text-3xl font-semibold text-gold">
+                    Mrs. A. Tamilmani
+                  </p>
                 </div>
                 <div className="mx-auto max-w-xl rounded-[28px] border border-gold/20 bg-maroon/10 p-6 text-center shadow-[inset_0_0_0_1px_rgba(212,175,55,0.12)]">
                   <p className="text-sm uppercase tracking-[0.35em] text-cream/80">
