@@ -8,7 +8,7 @@ export default function FooterSection() {
         <div className="grid gap-6 md:grid-cols-[1fr_auto] md:items-center">
           <div>
   <p className="text-sm uppercase tracking-[0.25em] text-charcoal/70">
-    Hosted by
+   With Best Compliments..!!
   </p>
 
   <p className="mt-3 font-great-vibes text-4xl sm:text-5xl md:text-6xl text-gold">
