@@ -9,8 +9,11 @@ export default function HeroSection() {
         <div className="space-y-6">
           <p className="text-sm uppercase tracking-[0.4em] text-maroon/70">Royal unveiling</p>
           <ShimmerEffect className="text-6xl font-semibold tracking-[-0.04em] text-maroon sm:text-7xl">
-            <span className="block">A. Nadhisha</span>
-            <span className="block text-3xl font-normal text-charcoal/80">❤️ S. Kathiravan</span>
+            <span className="block text-6xl sm:text-7xl md:text-6xl">A. Nadhisha</span>
+            <center><p className="mt-2 text-3xl font-semibold text-gold">
+                    &amp;
+                  </p></center>
+            <span className="block text-5xl sm:text-6xl md:text-6xl"> S. Kathiravan</span>
           </ShimmerEffect>
           <p className="max-w-2xl text-lg leading-8 text-charcoal/85 sm:text-xl">
             A dawn ceremony, a sacred venue, and a celebration crafted for an unforgettable Tamil wedding experience.
