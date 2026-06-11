@@ -176,7 +176,7 @@ export default function LandingExperience() {
                   Open Invitation
                 </button>
                 <TextReveal
-                  text="Experience the temple doors opening, the glow of gold, and the invitation unfolding in cinematic motion."
+                  text="Love brought them together, destiny made it eternal."
                   as="p"
                   delay={0.1}
                   className="max-w-md text-center text-xs uppercase tracking-[0.35em] text-cream/80 sm:max-w-[420px]"
