@@ -25,12 +25,12 @@ export default function InvitationSection({ bride, parents }: { bride: PersonInf
             <div className="absolute inset-x-0 top-4 mx-auto h-1 w-16 rounded-full bg-gold/60 blur-sm" />
             <p className="text-xs uppercase tracking-[0.35em] text-maroon/70">With the blessings of</p>
             <p className="mt-5 text-base text-charcoal/80">Mr. T. Ayyappan &amp; Mrs. A. Tamilmani</p>
-            <p className="mt-1 text-base text-charcoal/80">Mr. A. Siva Achari &amp; Mrs. S. Seethalakshmi</p>
+            <p className="mt-1 text-base text-charcoal/80">Mr. A. Siva  &amp; Mrs. S. Seethalakshmi</p>
             <div className="mt-8 rounded-[24px] border border-gold/30 bg-cream/80 p-6 text-center shadow-[inset_0_0_0_1px_rgba(212,175,55,0.12)]">
               <p className="text-sm uppercase tracking-[0.35em] text-maroon/70">Together with their families</p>
-              <p className="mt-4 text-base text-charcoal/80">{parents.father} &amp; {parents.mother}</p>
+             
               <p className="mt-3 text-2xl font-semibold text-maroon">{bride.name}</p>
-              <p className="mt-2 text-3xl font-great-vibes text-gold">❤️</p>
+              <p className="mt-2 text-3xl font-great-vibes text-gold">&amp;</p>
               <p className="mt-2 text-2xl font-semibold text-maroon">{GROOM.name}</p>
             </div>
           </div>

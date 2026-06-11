@@ -133,7 +133,7 @@ export default function LandingExperience() {
                   <p className="mt-4 text-3xl font-semibold text-gold">
                     Mr. T. Ayyapan
                   </p>
-                  <p className="mt-2 text-3xl font-semibold text-gold">
+                  <p className="mt-2 text-3xl font-semibold text-ivory">
                     &amp;
                   </p>
                   <p className="mt-2 text-3xl font-semibold text-gold">
@@ -145,9 +145,9 @@ export default function LandingExperience() {
                     and
                   </p>
                   <p className="mt-4 text-3xl font-semibold text-ivory">
-                    Mr. A. Siva Achari
+                    Mr. A. Siva 
                   </p>
-                  <p className="mt-2 text-3xl font-semibold text-ivory">
+                  <p className="mt-2 text-3xl font-semibold text-gold">
                     &amp;
                   </p>
                   <p className="mt-2 text-3xl font-semibold text-ivory">
@@ -161,9 +161,9 @@ export default function LandingExperience() {
                   Now unveiling
                 </p>
                 <div className="mt-4 space-y-2 text-4xl font-semibold tracking-[-0.03em] text-maroon sm:text-5xl">
-                  <p className="font-great-vibes text-gold">A. Nadhisha</p>
-                  <p className="text-4xl text-charcoal">❤️</p>
-                  <p className="font-great-vibes text-gold">S. Kathiravan</p>
+                  <p className="font-great-vibes text-maroon">A. Nadhisha</p>
+                  <p className="text-4xl text-gold">&amp;</p>
+                  <p className="font-great-vibes text-maroon">S. Kathiravan</p>
                 </div>
               </div>
 

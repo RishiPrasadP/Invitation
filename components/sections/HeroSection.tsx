@@ -24,7 +24,7 @@ export default function HeroSection() {
         </div>
 
         <div className="rounded-[28px] border border-gold/30 bg-maroon/5 p-8 text-charcoal/90 shadow-[0_20px_60px_rgba(128,0,32,0.12)]">
-          <p className="uppercase tracking-[0.35em] text-maroon/80">Family names</p>
+          <p className="uppercase tracking-[0.35em] text-maroon/80">“The Wedding Couple”</p>
           <div className="mt-6 space-y-6">
             <div className="rounded-3xl bg-ivory/80 p-5 shadow-[inset_0_0_0_1px_rgba(212,175,55,0.12)]">
               <p className="text-sm uppercase text-maroon/70">Bride</p>
@@ -34,7 +34,7 @@ export default function HeroSection() {
             <div className="rounded-3xl bg-ivory/80 p-5 shadow-[inset_0_0_0_1px_rgba(212,175,55,0.12)]">
               <p className="text-sm uppercase text-maroon/70">Groom</p>
               <p className="mt-2 text-xl font-semibold text-charcoal">{GROOM.name}</p>
-              <p className="text-sm text-charcoal/75">{GROOM.qualification} • {GROOM.designation}</p>
+              <p className="text-sm text-charcoal/75">{GROOM.qualification} • {GROOM.designation} - {GROOM.workplace}</p>
             </div>
           </div>
         </div>
